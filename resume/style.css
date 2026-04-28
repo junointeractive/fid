@@ -1,0 +1,36 @@
+html {
+text-align: center;
+}
+body {
+margin: 0 20%;
+font-family: 'courier new', monospace;
+color: aliceblue;
+background-color: darkslateblue;
+}
+header {
+background-color: mediumpurple bold 1.75rem sans-serif;
+text-decoration: underline;
+}
+h1, h2, h3 {
+color: white;
+}
+a {   
+color: magenta;   
+}
+a:active {
+color: cyan;
+}
+a[tabindex]:focus {
+color:cyan;
+outline: none;
+}
+img:hover {
+transform: scale(1.02);
+}
+ul, ol {
+border-radius: 8px;
+list-style: square;
+}
+h2 {
+background-color: mediumpurple;
+}
