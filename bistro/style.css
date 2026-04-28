@@ -2,18 +2,18 @@
   font-family: Montserrat;
   src: url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 }
-.montserrat-<uniquifier> {
-  font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-}
 body {
 margin: 0 10%;
 font-family: Montserrat;
 font: 1.25rem/1.75rem sans-serif;
 color: floralwhite;
 background-color: darkslategray;
+}
+.montserrat-<uniquifier> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 header {
 background-color: #faf2e4;
